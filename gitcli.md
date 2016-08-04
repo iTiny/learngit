@@ -25,3 +25,5 @@ git reset --hard HEAD^ [HEAD^^]
 git reset --hard [serial num]
 
 git reflog
+
+git checkout -- <file>
